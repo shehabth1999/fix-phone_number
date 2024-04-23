@@ -7,10 +7,6 @@ Fix Phone Number is a Flutter application designed to assist users in correcting
 Features
 Convert Arabic numbers to English numbers for improved readability.
 Copy, paste, and process phone numbers to ensure they meet specific formatting requirements.
-Effortlessly make phone calls or initiate WhatsApp chats directly from the app.
-Screenshots
-
-
 
 Getting Started
 To run this application locally, follow these steps:
